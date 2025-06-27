@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515487126722",
+    "project_id": "skill-swap-x",
+    "storage_bucket": "skill-swap-x.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515487126722:android:1bd434a42970d06d2dd75b",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6Nf6erFSwAqjdEKrVoJZ6o4iH9wLWVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "firestore": {
+      "indexes": [
+        {
+          "collectionGroup": "chats",
+          "queryScope": "COLLECTION",
+          "fields": [
+            { "fieldPath": "participants", "arrayConfig": "CONTAINS" },
+            { "fieldPath": "timestamp", "order": "DESCENDING" }
+          ]
+        }
+      ]
+    }
+  }
